@@ -6,7 +6,7 @@ You are trying to cook a lovely meal, but the kitchen is a wreck! Search for the
 A first-person survival cooking game where you must gather ingredients and complete recipes while avoiding a dangerous entity lurking in the kitchen.
 
 ## Links
-- **MVP Recording**: [Watch on YouTube]([https://youtu.be/1VpB25nZ-ao](https://youtu.be/epUgD7ljUZY))
+- **MVP Recording**: [Watch on YouTube]((https://youtu.be/epUgD7ljUZY)
 - **Draft Game**: [Play on Unity](https://play.unity.com/en/games/4dc40d04-a54b-4df1-8018-60ef01bdad56/all-roads-lead-to-cordyceps-draft)
 
 ## Gameplay Features
