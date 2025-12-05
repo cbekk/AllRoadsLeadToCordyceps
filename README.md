@@ -7,7 +7,7 @@ A first-person survival cooking game where you must gather ingredients and compl
 
 ## Links
 - **MVP Recording**: [Watch on YouTube]([https://youtu.be/epUgD7ljUZ](https://youtu.be/qb26KB0L2tU)
-- **Draft Game**: [Play on Unity](https://play.unity.com/en/games/4dc40d04-a54b-4df1-8018-60ef01bdad56/all-roads-lead-to-cordyceps-draft)
+- **Draft Game**: [Play on Unity](https://play.unity.com/api/v1/games/game/de9a3fed-991a-4ca0-aea7-e39f6276eb67/build/latest/frame)
 
 ## Gameplay Features
 - **First-Person Exploration**: Navigate a kitchen environment
