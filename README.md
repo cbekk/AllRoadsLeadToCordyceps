@@ -60,5 +60,11 @@ https://youtu.be/5ycmDpYen-4?si=SNrCSGlbMUlrygMq
 
 *Outline Effect: José
 Guerreiro*
+*Music: Vincent Teoule*
+*Entity Sound Effect: Michael Barker*
+*Footsteps Sound Effect: Damien Combe*
+*Roar Sound Effect: King Balthizar*
+*Kitchen Sound Effect: Arion Digital*
+
 
 *Made with Unity*
