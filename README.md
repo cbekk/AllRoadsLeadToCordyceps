@@ -8,6 +8,8 @@ A first-person survival cooking game where you must gather ingredients and compl
 ## Links
 - **MVP Recording**: [Watch on YouTube](https://youtu.be/qb26KB0L2tU)
 - **Draft Game**: [Play on Unity](https://play.unity.com/api/v1/games/game/de9a3fed-991a-4ca0-aea7-e39f6276eb67/build/latest/frame)
+-  **Final Game on Unity**: [Play on Unity](https://play.unity.com/en/games/3c93ef74-cc02-43c2-8b0c-31ff1e5f9c0a/all-roads-lead-to-cordyceps)
+-  **Final Game on Itch.io**: [Play on Itch.io](https://nardic.itch.io/all-roads-lead-to-cordyceps)
 
 ## Gameplay Features
 - **First-Person Exploration**: Navigate a kitchen environment
@@ -66,5 +68,7 @@ Guerreiro*
 *Roar Sound Effect: King Balthizar*
 *Kitchen Sound Effect: Arion Digital*
 
+*Programmers: Christiana N., Ivan C.*  
+*Artists: Tatiana, Angelica*
 
 *Made with Unity*
